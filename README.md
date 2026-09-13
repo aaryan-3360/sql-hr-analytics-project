@@ -48,7 +48,7 @@ Uses the `NTILE(10)` window function to divide employees into ten salary groups 
 
 **Sample Result:**
 
-![Top 10 Percent Earners](screenshots/3_top_10_percentpng)
+![Top 10 Percent Earners](screenshots/3_top_10_percent.png)
 
 ---
 
