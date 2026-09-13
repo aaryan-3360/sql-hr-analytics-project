@@ -2,6 +2,25 @@
 Employee Salary &amp; Attrition Analysis using SQL Window Functions (ROW_NUMBER, RANK, NTILE, AVG OVER) - Real-world HR analytics project 
 
 
+## What the Project Does
+
+This project analyzes employee data using SQL to identify salary patterns, employee attrition, salary differences across departments, employee tenure, and salary distribution.
+
+The analysis uses SQL Window Functions such as `ROW_NUMBER()`, `AVG() OVER()`, and `NTILE()` to answer important HR and business questions from the employee and recruitment data.
+
+## Business Problems Solved
+
+The project focuses on the following business problems:
+
+- **Salary Ranking:** Identify employees with the highest desired salary within each department.
+- **Salary Comparison:** Compare each employee's desired salary with the average salary of their department.
+- **Top Earners:** Identify employees who fall within the top 10% based on desired salary.
+- **Employee Attrition:** Analyze attrition rates across departments and job types to identify areas with higher employee turnover.
+- **Employee Tenure:** Identify current employees who have spent 5 or more years in the same role.
+- **Salary Distribution:** Categorize employees into salary bands within each department to understand salary distribution.
+
+These insights can help HR teams and management better understand employee compensation, retention, workforce distribution, and potential areas requiring further analysis.
+
 ## Key SQL Analysis
 
 ### 1. Rank Employees by Desired Salary Within Each Department
