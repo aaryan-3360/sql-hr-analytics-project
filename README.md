@@ -64,7 +64,7 @@ Calculates the total number of employees, terminated employees, and attrition ra
 
 **Sample Result:**
 
-![Attrition Rate Analysis](screenshots/queries/4_attrition_rate.png)
+![Attrition Rate Analysis](screenshots/4_attrition_rate.png)
 
 ---
 
