@@ -21,11 +21,13 @@ The project focuses on the following business problems:
 
 These insights can help HR teams and management better understand employee compensation, retention, workforce distribution, and potential areas requiring further analysis.
 
+
 ## 2. Dataset
 - **Source:** IBM HR Analytics Employee Dataset (Kaggle)
-- **Link:** kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+- **Link:** [View Dataset on Kaggle](www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 - **Tables:** Employee, Recruitment, Training, Engagement Survey
 - **Records:** 3,000+ employees, 26+ columns
+
 
 ## Key SQL Analysis
 
