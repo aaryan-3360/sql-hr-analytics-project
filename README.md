@@ -16,7 +16,7 @@ Ranks employees within each department based on their desired salary using the `
 
 **Sample Result:**
 
-![Salary Rank by Department](screenshots/01_salary_rank_by_department.png)
+![Salary Rank by Department](screenshots/1_rank_by_salary.png)
 
 ---
 
@@ -32,7 +32,7 @@ Calculates the average desired salary for each department and shows how much eac
 
 **Sample Result:**
 
-![Salary vs Department Average](screenshots/02_salary_vs_department_average.png)
+![Salary vs Department Average](screenshots/2_avg_salary_comparisonpng)
 
 ---
 
@@ -48,7 +48,7 @@ Uses the `NTILE(10)` window function to divide employees into ten salary groups 
 
 **Sample Result:**
 
-![Top 10 Percent Earners](screenshots/03_top_10_percent_earners.png)
+![Top 10 Percent Earners](screenshots/3_top_10_percentpng)
 
 ---
 
@@ -64,7 +64,7 @@ Calculates the total number of employees, terminated employees, and attrition ra
 
 **Sample Result:**
 
-![Attrition Rate Analysis](screenshots/04_attrition_rate_by_department.png)
+![Attrition Rate Analysis](screenshots/queries/4_attrition_rate.png)
 
 ---
 
@@ -80,7 +80,7 @@ Calculates the number of years employees have been in their current role and ide
 
 **Sample Result:**
 
-![Employees 5+ Years](screenshots/05_employees_5_plus_years.png)
+![Employees 5+ Years](screenshots/5_long_tenure.png)
 
 ---
 
