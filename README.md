@@ -96,4 +96,4 @@ Uses `NTILE(4)` to divide employees within each department into four salary grou
 
 **Sample Result:**
 
-![Salary Bands](screenshots/06_salary_bands_by_department.png)
+![Salary Bands](screenshots/6_salary_quartiles.png)
