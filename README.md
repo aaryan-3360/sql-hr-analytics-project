@@ -32,7 +32,7 @@ Calculates the average desired salary for each department and shows how much eac
 
 **Sample Result:**
 
-![Salary vs Department Average](screenshots/2_avg_salary_comparisonpng)
+![Salary vs Department Average](screenshots/2_avg_salary_comparison.png)
 
 ---
 
