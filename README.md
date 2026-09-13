@@ -10,7 +10,7 @@ Business Question:
 Who are the employees with the highest desired salary in each department?
 
 Query:
-"View SQL Query" (queries/1_rank_by_salary.sql)
+[View SQL Query] (queries/1_rank_by_salary.sql)
 
 What it answers:
 Ranks employees within each department based on their desired salary using the "ROW_NUMBER()" window function.
@@ -26,7 +26,7 @@ Business Question:
 How does each employee's desired salary compare with the average desired salary of their department?
 
 Query:
-"View SQL Query" (queries/2_avg_salary_comparison.sql)
+[View SQL Query] (queries/2_avg_salary_comparison.sql)
 
 What it answers:
 Calculates the average desired salary for each department and shows how much each employee's desired salary differs from that department average.
@@ -42,7 +42,7 @@ Business Question:
 Which employees fall within the top 10% based on desired salary across the company?
 
 Query:
-"View SQL Query" (queries/3_top_10_percent.sql)
+[View SQL Query] (queries/3_top_10_percent.sql)
 
 What it answers:
 Uses the "NTILE(10)" window function to divide employees into ten salary groups and identifies employees in the highest salary group.
@@ -58,7 +58,7 @@ Business Question:
 Which departments and job types have the highest employee attrition?
 
 Query:
-"View SQL Query" (queries/4_attrition_rate.sql)
+[View SQL Query] (queries/4_attrition_rate.sql)
 
 What it answers:
 Calculates the total number of employees, terminated employees, and attrition rate for each department and job function.
@@ -74,7 +74,7 @@ Business Question:
 Which current employees have been in the same role for five or more years?
 
 Query:
-"View SQL Query" (queries/5_long_tenure.sql)
+[View SQL Query] (queries/5_long_tenure.sql)
 
 What it answers:
 Calculates the number of years employees have been in their current role and identifies employees with at least five years of tenure in that role.
@@ -90,7 +90,7 @@ Business Question:
 How are employees distributed across salary-performance bands within each department?
 
 Query:
-"View SQL Query" (queries/6_salary_quartiles.sql)
+[View SQL Query] (queries/6_salary_quartiles.sql)
 
 What it answers:
 Uses "NTILE(4)" to divide employees within each department into four salary groups and categorizes them as Top 25%, Upper Mid, Lower Mid, and Bottom 25%.
