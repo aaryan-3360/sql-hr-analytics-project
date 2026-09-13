@@ -24,7 +24,7 @@ These insights can help HR teams and management better understand employee compe
 
 ## 2. Dataset
 - **Source:** IBM HR Analytics Employee Dataset (Kaggle)
-- **Link:** [View Dataset on Kaggle](www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+- **Link:** [View Dataset](www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 - **Tables:** Employee, Recruitment, Training, Engagement Survey
 - **Records:** 3,000+ employees, 26+ columns
 
