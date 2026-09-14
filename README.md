@@ -124,3 +124,27 @@ Uses `NTILE(4)` to divide employees within each department into four salary grou
 **Sample Result:**
 
 ![Salary Bands](screenshots/6_salary_quartiles.png)
+
+
+## Technical Implementation
+
+**Skills Demonstrated:**
+- Window Functions (ROW_NUMBER, RANK, NTILE, AVG OVER)
+- JOIN operations (INNER JOIN with 2 tables)
+- PARTITION BY for department-wise analysis
+- CASE WHEN for labeling and categorization
+- DATEDIFF() for date calculations
+-  GROUP BY + aggregations
+- Subqueries and CTEs
+- ROUND() for precision
+
+**SQL Concepts:**
+- Window functions (advanced ranking)
+- Partitioning and aggregation
+- Complex CASE logic
+- Date arithmetic
+
+
+
+
+
